@@ -1,0 +1,4 @@
+I love C++
+I love Miray
+I love Snail
+I hate Dogs
